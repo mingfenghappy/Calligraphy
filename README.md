@@ -166,7 +166,7 @@ setText(sBuilder, TextView.BufferType.SPANNABLE);
 ```
 Of course this is just an example. Your mileage may vary.
 
-#Colaborators
+#Collaborators
 
 - [@mironov-nsk](https://github.com/mironov-nsk)
 - [@Roman Zhilich](https://github.com/RomanZhilich)
